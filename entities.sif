@@ -1,0 +1,98 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = magnet0
+End
+
+Body 2
+  Name = magnet1
+End
+
+Body 3
+  Name = shaft
+End
+
+Body 4
+  Name = stator_slot_air
+End
+
+Body 5
+  Name = stator_slot_0_lce
+End
+
+Body 6
+  Name = stator_slot_0_lle
+End
+
+Body 7
+  Name = stator_slot_1_lce
+End
+
+Body 8
+  Name = stator_slot_1_lle
+End
+
+Body 9
+  Name = stator_slot_2_lce
+End
+
+Body 10
+  Name = stator_slot_2_lle
+End
+
+Body 11
+  Name = stator_slot_3_lce
+End
+
+Body 12
+  Name = stator_slot_3_lle
+End
+
+Body 13
+  Name = stator_slot_4_lce
+End
+
+Body 14
+  Name = stator_slot_4_lle
+End
+
+Body 15
+  Name = stator_slot_5_lce
+End
+
+Body 16
+  Name = stator_slot_5_lle
+End
+
+Body 17
+  Name = stator
+End
+
+Body 18
+  Name = stator_airgap
+End
+
+Body 19
+  Name = middle_airgap
+End
+
+Body 20
+  Name = rotor_airgap
+End
+
+Body 21
+  Name = airbox
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = outer_airbox_face
+End
+
+Boundary Condition 2
+  Name = rotational_mortar_airgap_curve
+End
+
+Boundary Condition 3
+  Name = bnry24
+End
+

@@ -1,0 +1,26 @@
+! ----- names for bodies -----
+$ magnet0 = 1
+$ magnet1 = 2
+$ shaft = 3
+$ stator_slot_air = 4
+$ stator_slot_0_lce = 5
+$ stator_slot_0_lle = 6
+$ stator_slot_1_lce = 7
+$ stator_slot_1_lle = 8
+$ stator_slot_2_lce = 9
+$ stator_slot_2_lle = 10
+$ stator_slot_3_lce = 11
+$ stator_slot_3_lle = 12
+$ stator_slot_4_lce = 13
+$ stator_slot_4_lle = 14
+$ stator_slot_5_lce = 15
+$ stator_slot_5_lle = 16
+$ stator = 17
+$ stator_airgap = 18
+$ middle_airgap = 19
+$ rotor_airgap = 20
+$ airbox = 21
+! ----- names for boundaries -----
+$ outer_airbox_face = 1
+$ rotational_mortar_airgap_curve = 2
+$ bnry24 = 3
